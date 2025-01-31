@@ -1,18 +1,20 @@
 #!/bin/bash
 # 25/01/11 - 7:37pm
 
+# Version 1.0.1
+
 col='\033[0;32m'
 col2='\033[0;33m'
 nc='\033[0m' 
 
 if [[ $1 = r ]]; then
-	col='\033[[0;97m'
+	col='\033[0;97m'
 fi
 
 clear
 tput civis
 	printf "${col2}"
-	sleep 0.0
+	sleep 0.5
 	printf "    ▆▆▆   BG IG, A System-Act Ally \n"
 	printf "          Copyriht (C) 2084-2108, Halden Electronics Inc. \n \n"
 	sleep 0.1
@@ -56,7 +58,7 @@ clear
 	printf "  2      52   Erio510     H515 \n"
 	printf "  1      36   Ell567      H515 \n"
 	printf "  1      36   Jos912      H515 \n"
-	sleep 0
+	sleep 2
 clear
 	printf "${col}"
 clear
