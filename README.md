@@ -6,6 +6,7 @@ A recreation of the lethal company terminal, with a few additional features.
 
 1. Download
 2. Unzip
+3. $ cd ./LC
 3. $ ./lcterm.sh
 
 ## Notes: 
