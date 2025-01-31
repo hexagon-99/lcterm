@@ -1,6 +1,0 @@
- Green suit // Price: ▮60
- Hazard suit // Price: ▮90
- Pajama suit // Price: ▮900
- Purple suit // Price: ▮70
- Bee suit // Price: ▮110
- Bunny suit // Price: ▮200
