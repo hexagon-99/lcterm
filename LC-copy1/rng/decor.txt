@@ -1,0 +1,7 @@
+ * Plushie pajama man  // Price: ▮100
+ * Disco ball  // Price: ▮150
+ * Cozy lights  // Price: ▮140
+ * Goldfish  // Price: ▮50
+ * Welcome mat  // Price: ▮50
+ * Romantic table  // Price: ▮120
+ * Television // Price: ▮130

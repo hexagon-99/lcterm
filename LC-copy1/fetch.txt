@@ -1,0 +1,13 @@
+         _m$$$$$$$$$$m_          Desmond@Comp_Term0782
+       $$$$$$$$$$$$$$$$$$        ---------------------
+  __  $$$"            "$$$  __   OS: FORTUNE-9
+ d[]$ $$'              '$$ $[]b  Host: Halden Electronics C3200 Terminal
+ $$$$ $$.              .$$ $$$$  Kernel: 1.20.4-amd64
+ $$$$ $$$m_          _m$$$ $$$$  Uptime: 563 years, 22 days, 11 hours 
+ q[]$ $$$$$$$$$$$$$$$$$$$$ $[]p  Resolution: 640x480
+  ""   ""q$$$$$$$$$$$$p""   ""   CPU: BORSON 300 (4) @ 2.500 GHz
+    d$$$m. "q$$$$$$p" .m$$$b     GPU: BORSON 
+   $$$$$$$$b $$$$$$ d$$$$$$$$    Memory: 654MiB / 4522 MiB 
+   q$$$$$$$$ $$$$$$ $$$$$$$$p
+    "q$$$$p" d$$$$b "q$$$$p"
+      """"            """"
