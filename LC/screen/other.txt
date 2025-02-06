@@ -1,0 +1,18 @@
+ Other commands:
+
+ >VIEW MONITOR
+ To toggle on AND off the main monitor's map cam.
+
+ >SWITCH
+ To switch view to a player on the main monitor.
+
+ >PING
+ To make a radar booster play a noise.
+
+ >TRANSMIT
+ To transmit a message with the signal translator.
+
+ >SCAN
+ To scan for the number of items left on the current
+ moon.
+ 

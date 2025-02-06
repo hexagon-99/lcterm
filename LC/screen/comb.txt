@@ -1,0 +1,47 @@
+ Welcometo the Company store.
+ Usewords BUY and INFO on any item.
+ Order tools in bulk by typing a number.
+ ----------------------------
+ * Walkie-Talkie // Price: ▮12
+ * Flashlight // Price: ▮15
+ * Shovel // Price: ▮30
+ * Lockpicker // Price: ▮20
+ * Pro-Flashlight // Price: ▮25
+ * Stun grenade // Price: ▮40
+ * Boombox // Price: ▮60
+ * TZP-Inhalant // Price: ▮120
+ * Zap gun // Price: ▮400
+ * Jetpack // Price: ▮900
+ * Extension ladder // Price: ▮60
+ * Radar booster // Price: ▮50
+ * Spray paint // Price: ▮50
+ * Weed killer // Price: ▮25
+ * Belt bag // Price: ▮45
+
+ * Cruiser // Price: ▮370
+
+ SHIP UPGRADES:
+ * Loud Horn // Price: ▮100
+ * Singal translator // Price: ▮255
+ * Teleporter // Price: ▮375
+ * Inverse teleporter // Price: ▮425
+
+ The selcetion of ship decor rotates per-quota. Be
+ sure to check back next week:
+ ------------------------------ 
+
+ >MOONS
+ To see the list of moons the autopilot can route to.
+
+ >STORE
+ To see the company store's selection of useful items.
+
+ >BESTIARY
+ To see the list of wildlife on record.
+
+ >STORAGE
+ To access objects placed into storage,
+
+ >OTHER
+ To see the list of other commands.
+

@@ -1,0 +1,16 @@
+         _m$$$$$$$$$$m_
+       $$$$$$$$$$$$$$$$$$
+  __  $$$"            "$$$  __
+ d[]$ $$'              '$$ $[]b
+ $$$$ $$.              .$$ $$$$
+ $$$$ $$$m_          _m$$$ $$$$
+ q[]$ $$$$$$$$$$$$$$$$$$$$ $[]p
+  ""   ""q$$$$$$$$$$$$p""   ""
+    d$$$m. "q$$$$$$p" .m$$$b   
+   $$$$$$$$b $$$$$$ d$$$$$$$$
+   q$$$$$$$$ $$$$$$ $$$$$$$$p
+    "q$$$$p" d$$$$b "q$$$$p"
+      """"            """"
+
+The ascii art head I made for the neofetch easter egg, feel free to use it for whatever. 
+(also this specific file isnt actually used in lcterm)
