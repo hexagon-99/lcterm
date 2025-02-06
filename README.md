@@ -11,7 +11,7 @@ A recreation of the lethal company terminal, with a few additional features.
 
 ## Notes: 
 
-- the 'c' flag (colour) changes is the colour of the term text to make it move visible is your using cool-retro-term
+- the 'c' flag (colour) changes the text colour to make it move visible is your using cool-retro-term
 - the 'n' flag (no delay) removes the artificial delay
 
 - This project is primarily a way for me to get better at writing bash, so it is a bit jank. 
