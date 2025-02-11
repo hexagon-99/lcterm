@@ -11,8 +11,8 @@ A recreation of the lethal company terminal, with a few additional features.
 
 ## Notes: 
 
-- the 'c' flag (colour) changes the text colour to make it move visible is your using cool-retro-term
-- the 'n' flag (no delay) removes the artificial delay
+- the -c flag (colour) changes the text colour to make it move visible is your using cool-retro-term
+- the -n flag (no delay) removes the artificial delay
 
 - This project is primarily a way for me to get better at writing bash, so it is a bit jank. 
 - It *should* run indenepdant of directory as long as all the files are located in the same directory. 
